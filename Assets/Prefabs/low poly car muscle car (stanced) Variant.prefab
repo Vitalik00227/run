@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!65 &2694492539397029337
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7935351448795050268}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.059649576, y: 0.11461588, z: 0.034056183}
+  m_Center: {x: -0.02499287, y: 0.041320633, z: 0.00718207}
+--- !u!1001 &2952929132834418078
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.804968
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.804968
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.804968
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.140899
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.2417674
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.933738
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.003919679
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -6.209775e-11
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.99999213
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0005982078
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0.069
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180.449
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_Name
+      value: low poly car muscle car (stanced) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+      propertyPath: m_TagString
+      value: obstacle
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+--- !u!1 &7935351448795050268 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -4117730970072769406, guid: 9f619a7e1ed4f4a428f104a4bfc1eac4, type: 3}
+  m_PrefabInstance: {fileID: 2952929132834418078}
+  m_PrefabAsset: {fileID: 0}
